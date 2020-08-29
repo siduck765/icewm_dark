@@ -1,0 +1,137 @@
+ThemeAuthor=                     "BlueScorpio_7"
+ThemeDescription=                "Zorin-Ice"
+License=                         "GPL"
+Look=                            "flat"
+
+Gradients=                       "menubg.xpm"
+
+#Buttons
+TitleButtonsSupported=           "xmirs"
+TitleButtonsLeft=                ""
+TitleButtonsRight=               "xmi"
+RolloverButtonsSupported=        1
+
+TaskBarClockLeds=                1
+TrayDrawBevel=                   1
+
+#Borders
+BorderSizeX=                     0
+BorderSizeY=                     0
+DlgBorderSizeX=                  0
+DlgBorderSizeY=                  0
+CornerSizeX=                     24
+CornerSizeY=                     24
+
+TitleBarHeight=                  22
+TitleBarJustify=                 50
+ScrollBarX=                      16
+ScrollBarY=                      16
+
+#Icons
+MenuIconSize=                    16
+SmallIconSize=                   16
+LargeIconSize=                   32
+HugeIconSize=                    48
+
+
+#DialogBox
+ColorLabelText=                  "rgb:70/70/70"
+ColorDialog=                     "rgb:E9/E9/E9"
+ColorDialogSelectionText=        "rgb:70/70/70"
+
+#Taskbar
+ColorDefaultTaskBar=             "rgb:E9/E9/E9"
+ColorToolButton=                 "rgb:E9/E9/E9"
+ColorActiveButton=               "rgb:E9/E9/E9"
+ColorNormalButton=               "rgb:E9/E9/E9"
+ColorToolButtonText=             "rgb:A0/A0/A0"
+ColorNormalWorkspaceButton=      "rgb:E9/E9/E9"
+ColorNormalWorkspaceButtonText=  "rgb:A0/A0/A0"
+ColorActiveWorkspaceButton=      "rgb:E9/E9/E9"
+ColorActiveWorkspaceButtonText=  "rgb:60/60/60"
+ColorNormalButtonText=           "rgb:A0/A0/A0"
+ColorActiveButtonText=           "rgb:60/60/60"
+ColorActiveTaskBarApp=           "rgb:E9/E9/E9"
+ColorActiveTaskBarAppText=       "rgb:70/70/70"
+ColorMinimizedTaskBarApp=        "rgb:E9/E9/E9"
+ColorMinimizedTaskBarAppText=    "rgb:A0/A0/A0"
+ColorNormalTaskBarApp=           "rgb:E9/E9/E9"
+ColorNormalTaskBarAppText=       "rgb:60/60/60"
+ColorInvisibleTaskBarAppText=    "rgb:60/60/60"
+
+#Menu
+ColorActiveMenu=                 "rgb:00/00/00"
+ColorNormalMenu=                 "rgb:E9/E9/E9"
+ColorNormalMenuItemText=         "rgb:70/70/70"
+ColorActiveMenuItemText=         "rgb:FF/FF/FF"
+ColorDisabledMenuItemText=       "rgb:80/80/80"
+ColorDisabledMenuItemShadow=     "rgb:00/00/00"
+
+ColorNormalBorder=#eeffff
+ColorActiveBorder=#eeffff
+ColorNormalButton=#eeffff
+ColorActiveButton=#eeffff
+ColorNormalTitleBar=#eeffff
+ColorActiveTitleBar=#eeffff
+ColorNormalTitleBarText=#000000
+ColorActiveTitleBarText=#000000
+
+#Move
+ColorMoveSizeStatus=             "rgb:238/255/255"
+ColorMoveSizeStatusText=          "rgb:238/255/255"
+
+#Tooltip
+ColorToolTip=                    "rgb:E9/E9/E9"
+ColorToolTipText=                "rgb:70/70/70"
+
+#QuickSwitch
+ColorQuickSwitch=                "rgb:E9/E9/E9"
+ColorQuickSwitchText=            "rgb:70/70/70"
+
+#ListBox
+ColorListBox=                     "rgb:238/255/255"
+ColorListBoxText=                 "rgb:238/255/255"
+ColorListBoxSelection=            "rgb:238/255/255"
+ColorListBoxSelectionText=        "rgb:238/255/255"
+
+#Label
+ColorLabel=                       "rgb:238/255/255"
+ColorLabelText=                  "rgb:70/70/70"
+
+#Clock
+ColorClock=                      "rgb:E9/E9/E9"
+ColorClockText=                  "rgb:70/70/70"
+
+#CPUMonitor
+ColorCPUStatusUser=              "rgb:7D/D2/FC"
+ColorCPUStatusSystem=            "rgb:A9/E8/FF"
+ColorCPUStatusInterrupts=        "rgb:E9/E9/E9"
+ColorCPUStatusIoWait=            "rgb:50/00/00"
+ColorCPUStatusSoftIrq=           "rgb:FF/AB/AB"
+ColorCPUStatusNice=              "rgb:FF/D3/00"
+
+#Net
+ColorNetSend=                    "rgb:C4/00/00"
+ColorNetReceive=                 "rgb:FF/00/00"
+
+#ScrollBar
+ColorScrollBar=                  "rgb:D0/D0/D0"
+ColorScrollBarButton=            "rgb:00/00/00"
+ColorScrollBarSlider=            "rgb:7D/D2/FC"
+ColorScrollBarArrow=             "rgb:D0/D0/D0"
+ColorScrollBarButtonArrow=       "rgb:60/60/60"
+ColorScrollBarInactiveArrow=     "rgb:60/60/60"
+
+#Fonts
+TitleFontNameXft=                "sans-serif:size=8:bold"
+StatusFontNameXft=               "sans-serif:size=8:bold"
+MenuFontNameXft=                 "sans-serif:size=8:bold"
+NormalTaskBarFontNameXft=        "sans-serif:size=8:bold"
+ActiveTaskBarFontNameXft=        "sans-serif:size=8:bold"
+ListBoxFontNameXft=              "sans-serif:size=8:bold"
+ToolTipFontNameXft=              "sans-serif:size=9:bold"
+QuickSwitchFontNameXft=          "sans-serif:size=10:bold"
+ClockFontNameXft=                "sans-serif:size=8:bold"
+
+DesktopBackgroundImage=          ""
+DesktopBackgroundScaled=         1

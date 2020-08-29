@@ -1,0 +1,156 @@
+ThemeName=                                 "nu Ice red"
+ThemeAuthor=                               "rainerhg"
+ThemeDescription=                          "Port of nu XFCE red theme by novomente
+License=                                   "GPLv3 or later"
+
+Look=                                      flat
+Gradients=                                 "taskbuttonactive.xpm taskbuttonbg.xpm taskbuttonminimized.xpm dialogbg.xpm logoutbg.xpm workspacebuttonactive.xpm menusel.xpm"
+
+# Resaltar botones al pasar el cursor | si: 1 ; no: 0
+RolloverButtonsSupported=                  1
+# Los botones de ventana soportados | x:cerrar m:maxi i:mini r:enrollar s:menú
+TitleButtonsSupported=                     "xmis"
+# Los botones que irán a la izquierda
+TitleButtonsLeft=                          "xim"
+# Los botones que irán a la derecha 
+TitleButtonsRight=                         "s"
+TrayDrawBevel=                             0
+# Tamaño de los bordes
+BorderSizeX=                               5
+BorderSizeY=                               4
+# Tamaño de los bordes de los cuadros de diálogo
+DlgBorderSizeX=                            5
+DlgBorderSizeY=                            4
+# Tamaño de las esquinas
+CornerSizeX=                               24
+CornerSizeY=                               24
+# Alto de la barra de título
+TitleBarHeight=                            29
+# Formato del texto en el título de la ventana
+TitleBarCentered=                          1
+TitleBarJustify=                           50
+# Muestra el icono de la aplicación en el botón del menú | si:1 ; no:0
+ShowMenuButtonIcon=                        0
+ScrollBarX=                                16
+ScrollBarY=                                16
+
+MenuIconSize=                              16
+SmallIconSize=                             16
+LargeIconSize=                             32
+HugeIconSize=                              48
+
+
+#DialogBox
+ColorDialog=                             "rgb:33/33/33"
+ColorDialogSelectionText=                "rgb:FF/FF/FF"
+
+#Taskbar
+ColorDefaultTaskBar=                     "rgb:33/33/33"
+ColorToolButton=                         "rgb:33/33/33"
+ColorActiveButton=                       "rgb:FF/51/51"
+ColorNormalButton=                       "rgb:58/58/58"
+ColorToolButtonText=                      "rgb:FF/33/33"
+ColorNormalWorkspaceButtonText=          "rgb:A6/A6/A6"
+ColorActiveWorkspaceButtonText=          "rgb:21/21/21"
+ColorNormalButtonText=                   "rgb:FF/FF/FF"
+ColorActiveButtonText=                     "rgb:47/47/47"
+ColorActiveTaskBarApp=                   "rgb:FF/33/33"
+ColorActiveTaskBarAppText=               "rgb:FF/FF/FF"
+ColorMinimizedTaskBarApp=                "rgb:D9/D9/D9"
+ColorMinimizedTaskBarAppText=            "rgb:80/80/80"
+ColorNormalTaskBarApp=                   "rgb:33/33/33"
+ColorNormalTaskBarAppText=               "rgb:FF/FF/FF"
+ColorInvisibleTaskBarApp=                  "rgb:ED/ED/ED"
+ColorInvisibleTaskBarAppText=              "rgb:47/47/47"
+
+# Menú de IceWM
+ColorActiveMenu=                           "rgb:FF/33/33"
+ColorNormalMenu=                         "rgb:33/33/33"
+ColorActiveMenuItem=                     "rgb:F1/33/33"
+ColorNormalMenuItemText=                 "rgb:FF/FF/FF"
+ColorActiveMenuItemText=                 "rgb:FF/FF/FF"
+ColorDisabledMenuItemText=               "rgb:A6/A6/A6"
+ColorDisabledMenuItemShadow=             "rgb:3E/3E/3E"
+
+# TitleBox
+ColorNormalBorder=                       "rgb:FF/FF/FF"
+ColorActiveBorder=                       "rgb:FF/FF/FF"
+ColorNormalTitleBarText=                 "rgb:33/33/33"
+ColorActiveTitleBarText=                 "rgb:FF/FF/FF"
+ColorNormalTitleBar=                     "rgb:D9/D9/D9"
+ColorActiveTitleBar=                     "rgb:FF/33/33"
+
+# Move
+ColorMoveSizeStatus=                     "rgb:D9/D9/D9"
+ColorMoveSizeStatusText=                 "rgb:33/33/33"
+# Etiquetas que aparecen al pasar el cursor sobre un elemento
+ColorToolTip=                            "rgb:FF/FF/FF"
+ColorToolTipText=                        "rgb:00/00/00"
+
+#Label
+ColorLabel=                                "rgb:33/33/33"
+ColorLabelText=                            "rgb:FF/FF/FF"
+
+# Tabulador de ventanas
+ColorQuickSwitch=                         "rgb:33/33/33"
+ColorQuickSwitchText=                     "rgb:FF/FF/FF"
+ColorQuickSwitchActive=                   "rgb:FF/33/33"
+QuickSwitchFontNameXft=                   "noto sans:size=10:bold"
+QuickSwitchFillSelection=                  0
+
+#ListBox
+ColorListBox=                            "rgb:33/33/33"
+ColorListBoxText=                        "rgb:FF/FF/FF"
+ColorListBoxSelection=                   "rgb:FF/33/33"
+ColorListBoxSelectionText=               "rgb:FF/FF/FF"
+
+# Reloj
+TaskBarClockLeds=                        0
+ColorClock=                              "rgb:F1/33/33"
+ColorClockText=                          "white"
+
+# Monitor de CPU
+ColorCPUStatusIdle=                        "rgb:47/47/47"
+ColorCPUStatusUser=                        "rgb:ED/ED/ED"
+ColorCPUStatusSystem=                      "rgb:B0/B0/B0"
+ColorCPUStatusInterrupts=                  "rgb:FF/82/82"
+ColorCPUStatusIoWait=                      "rgb:50/00/00"
+ColorCPUStatusSoftIrq=                     "rgb:FF/AB/AB"
+ColorCPUStatusNice=                        "rgb:FF/D3/00"
+
+# Tráfico de red
+ColorNetIdle=                              "rgb:47/47/47"
+ColorNetSend=                              "rgb:ED/ED/ED"
+ColorNetReceive=                           "rgb:B0/B0/B0"
+
+# Monitor de Memoria usada
+ColorMEMStatusFree=                        "rgb:47/47/47"
+ColorMEMStatusCached=                      "rgb:ED/ED/ED"
+ColorMEMStatusUser=                        "rgb:B0/B0/B0"
+ColorMEMStatusBuffers=                     "rgb:00/00/00"
+
+#Fonts
+TitleFontNameXft=                          "noto sans:size=9:bold"
+StatusFontNameXft=                         "noto sans:size=9:bold"
+MenuFontNameXft=                           "noto sans:size=9:bold"
+NormalTaskBarFontNameXft=                  "noto sans:size=9:bold"
+ActiveTaskBarFontNameXft=                  "noto sans:size=9:bold"
+ListBoxFontNameXft=                        "noto sans:size=9:bold"
+ToolTipFontNameXft=                        "noto sans:size=9:bold"
+QuickSwitchFontNameXft=                    "noto sans:size=10:bold"
+ClockFontNameXft=                          "noto sans:size=10:bold"
+
+#ScrollBar
+ColorScrollBar=                          "rgb:33/33/33"
+ColorScrollBarButton=                    "rgb:D9/D9/D9"
+ColorScrollBarSlider=                    "rgb:D9/D9/D9"
+ColorScrollBarArrow=                     "rgb:D9/D9/D9"
+ColorScrollBarButtonArrow=               "rgb:33/33/33"
+ColorScrollBarInactiveArrow=             "rgb:33/33/33"
+
+#Desktop
+DesktopBackgroundImage=                    "wallpaper.jpg"
+DesktopBackgroundScaled=                   1
+DesktopBackgroundColor=                  "rgb:3E/3E/3E"
+DesktopTransparencyColor=                "rgb:3E/3E/3E"
+DesktopTransparencyImage=                  ""
